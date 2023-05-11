@@ -1,0 +1,39 @@
+.circle-node {
+  height: 80px;
+  width: 80px;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 50%;
+  background: white;
+}
+
+.circle-node label {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 12px;
+  padding: 5px;
+}
+
+.circle-node input {
+  background: transparent;
+  height: 50px;
+  width: 50px;
+  padding: 5px;
+  border-radius: 50%;
+  border: none;
+  text-align: center;
+
+  position: absolute;
+    top: 19%;
+    left: 19%;
+}
+
+.react-flow__node {
+  z-index: -1 !important;
+}
+
+p {
+  display: none;
+}
