@@ -150,7 +150,7 @@ function App() {
           <input id="degreeData" placeholder="enter node id." onChange={GetNodeData}></input>
         </div>
         <DescWrapper>
-          <h3>here today i present to you, my math project... possibly totaling 2.34 days of blood sweat and (almost) tears.</h3>
+          <h3>here today i present to you, my math project... totaling over 2.34 days of learning.!</h3>
         </DescWrapper>
 
       </div>
